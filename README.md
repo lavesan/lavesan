@@ -1,8 +1,7 @@
-
-<h1 align="center">👋 Olá, eu sou o Valdery Alves | Hello, I'm Valdery Alves</h1>
+<h1 align="center">👋 Hey, I'm Valdery Alves</h1>
 
 <p align="center">
-  Desenvolvedor Fullstack com +8 anos de experiência | Fullstack Developer with 8+ years of experience
+  Senior Software Engineer • 8+ years of experience building real-world solutions that scale
 </p>
 
 <p align="center">
@@ -15,37 +14,32 @@
 
 ---
 
-## 🇧🇷 Sobre mim
+## 👨‍💻 About Me
 
-Sou desenvolvedor fullstack com mais de 8 anos de experiência criando sites, sistemas e soluções digitais sob medida.  
-Já atuei com empresas como Vivo, Sicredi, Accenture, DBC Company e startups de diversos nichos.  
-Especialista em React, Node.js, Next.js, TypeScript e outras tecnologias modernas.
+I'm a Brazilian Senior Software Engineer who loves turning ideas into stable, clean and useful products. 
 
----
+I've worked with major companies like **Vivo**, **Accenture**, **Sicredi**, and also helped fast-paced **startups** bring bold ideas to life. Whether building from scratch or refactoring legacy systems, my focus is always on clarity, performance, and results that matter.
 
-## 🇺🇸 About me
+I work mainly with **React**, **Next.js**, **Node.js**, **TypeScript**, and **AWS** — and yes, I do enjoy a bit of Spring Boot, Svelte, or GraphQL when needed. I also mentor devs, lead projects, and like to keep things simple (and well done).
 
-I'm a fullstack developer with over 8 years of experience building websites, platforms and custom digital solutions.  
-I've worked with companies like Vivo, Sicredi, Accenture, DBC Company and several startups across different markets.  
-Specialized in React, Node.js, Next.js, TypeScript and modern technologies.
+If you're here looking for someone reliable, sharp, and human — let’s talk 🚀
 
 ---
 
-## 🌐 Portfólio | Portfolio
+## 🌐 Portfolio
 
-[🔗 Clique aqui para visitar](https://valderyalves.com.br)
-[🔗 Click here to visit](https://valderyalves.com.br/en)
+[🔗 Visit my site](https://valderyalves.com.br)
 
 ---
 
-## 🛠️ Tecnologias | Tech Stack
+## 🛠️ Tech Stack
 
 React • Next.js • Node.js • TypeScript • Vue • Svelte • Spring Boot • GraphQL • AWS • PostgreSQL
 
 ---
 
-## 📫 Contato | Contact
+## 📫 Contact
 
-- WhatsApp: [clique aqui | click here](https://wa.me/5581985405144)
+- WhatsApp: [click here](https://wa.me/5581985405144)
 - Email: valdery.jur@gmail.com
- 
+
