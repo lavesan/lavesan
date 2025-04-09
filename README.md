@@ -34,7 +34,7 @@ If you're here looking for someone reliable, sharp, and human — let’s talk �
 
 ## 🛠️ Tech Stack
 
-React • Next.js • Node.js • TypeScript • Vue • Svelte • Spring Boot • GraphQL • AWS • PostgreSQL
+React • Next.js • Node.js • TypeScript • GraphQL • AWS • PostgreSQL
 
 ---
 
