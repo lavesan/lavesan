@@ -27,7 +27,7 @@ If you're here looking for someone reliable, sharp, and human — let’s talk �
 
 ## 🌐 Portfolio
 
-[🔗 Visit my site](https://valderyalves.com.br)
+[🔗 Visit my site](https://valderyalves.com.br/en)
 
 ---
 
