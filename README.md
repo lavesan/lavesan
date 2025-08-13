@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Valdery Alves</h1>
 
 <p align="center">
-  Senior Software Engineer • 8+ years of experience building real-world solutions that scale
+  Senior Software Engineer • 7+ years of experience building real-world solutions that scale
 </p>
 
 <p align="center">
