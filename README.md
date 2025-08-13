@@ -17,9 +17,9 @@
 
 I'm a Brazilian Senior Software Engineer who loves turning ideas into stable, clean and useful products. 
 
-I've worked with major companies like **Vivo**, **Accenture**, **Sicredi**, and also helped fast-paced **startups** bring bold ideas to life. Whether building from scratch or refactoring legacy systems, my focus is always on clarity, performance, and results that matter.
+I've worked with major companies like **Vivo** (telecom provider), **Accenture** (global outsourcing company), **Sicredi** (banking institution), and also helped fast-paced **startups** bring bold ideas to life. Whether building from scratch or refactoring legacy systems, my focus is always on clarity, performance, and results that matter.
 
-I work mainly with **React**, **Next.js**, **Node.js**, **TypeScript**, and **AWS** — and yes, I do enjoy a bit of Spring Boot, Svelte, or GraphQL when needed. I also mentor devs, lead projects, and like to keep things simple (and well done).
+I work mainly with **React**, **Next.js**, **Node.js**, **TypeScript**, and **AWS** — and yes, I do enjoy a bit of Svelte, or GraphQL when needed. I also mentor devs, lead projects, and like to keep things simple (and well done).
 
 If you're here looking for someone reliable, sharp, and human — let’s talk 🚀
 
